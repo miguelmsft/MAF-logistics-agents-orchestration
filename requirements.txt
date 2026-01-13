@@ -1,0 +1,15 @@
+# Zava Logistics - Capacity Planning Demo
+# Microsoft Agent Framework with Azure AI Foundry
+#
+# Install with: pip install -r requirements.txt
+# Note: Uses pre-release packages (Agent Framework is in preview)
+
+# Microsoft Agent Framework - Azure AI integration
+# Includes: agent-framework-core, workflows, orchestrations
+agent-framework-azure-ai>=1.0.0b0
+
+# Azure authentication (for AzureCliCredential)
+azure-identity>=1.15.0
+
+# Environment variable management
+python-dotenv>=1.0.0
