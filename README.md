@@ -108,6 +108,20 @@ venv\Scripts\activate
 python main.py
 ```
 
+## Screenshots
+
+**Setup** – Connects to Azure, uploads docs, creates agents:
+
+![Setup](Screenshots/Screenshot1.png)
+
+**Agent Collaboration** – Manager coordinates Analyst and Reviewer:
+
+![Collaboration](Screenshots/Screenshot3.png)
+
+**Azure AI Foundry** – Agents visible in the portal:
+
+![Portal](Screenshots/Screenshot2.png)
+
 ## Project Structure
 
 ```
